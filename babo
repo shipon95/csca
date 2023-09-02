@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+</head>
+<h1>주이 엉댕이</h1>
+<!-- form 要素 -->
+<form action="https://kjjk.weblio.jp/content/%EB%B0%94%EB%B3%B4" method="GET">
+
+  <h3>나는 ____ 입니다</h3>
+  <label><input type="radio" name="babo" value="1">바보</label>
+  <label><input type="radio" name="babo" value="2">엉덩이</label>
+  <label><input type="radio" name="babo" value="3">꼬맹이</label>
+  <label><input type="radio" name="babo" value="4">애기</label>
+
+
+
+  <br>
+
+
+
+  <button>送信する</button>
+</form>
+
+<body>
+
+</body>
+
+</html>
